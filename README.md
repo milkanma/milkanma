@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="milkintro.png" width="100%">
+</p>
+
 # 밀크출장마사지 (Milk Massage)
 
 밀크출장마사지 공식 브랜드 저장소입니다.

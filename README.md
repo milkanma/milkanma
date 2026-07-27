@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://www.milkanma.com">
-<img src="images/banner.webp" width="900">
+<img src="milkintro.png" width="900">
 </a>
 </p>
 

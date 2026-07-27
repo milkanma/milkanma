@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://milkanma.github.io/milkanma/sitemap.xml
